@@ -56,8 +56,7 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
 import Logo from './assets/work_logo/Rock.png';
 import Logo1 from './assets/work_logo/ecommerce.png';
 import ProgressBar from './assets/work_logo/progressbar.png';
-import IT from "./assets/IT_VEDANT.jpg";
-import Rapid from "./assets/Rapid.jpeg";
+
 
 export const SkillsInfo = [
   {
@@ -118,7 +117,27 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: Rapid,
+      img: webverseLogo,
+      role: "Fullstack Developer",
+      company: "Webverse Digital",
+      date: "April 2024 - Present",
+      desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
+      skills: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React JS",
+        "TypeScript",
+        "Node JS",
+        "Tailwind CSS",
+        "MongoDb",
+        "Redux",
+        " Next Js",
+      ],
+    },
+    {
+      id: 1,
+      img: agcLogo,
       role: "Data Analyst",
       company: "Rapid SoftLogic Private Limited",
       date: "May 2025 - November 2025",
@@ -132,10 +151,10 @@ export const SkillsInfo = [
       ],
     },
     {
-      id: 1,
-      img: IT,
+      id: 2,
+      img: newtonschoolLogo,
       role: "Java Fullstack Developer Intern",
-      company: "IT VEDANT",
+      company: "Newton School",
       date: "NOV 2025 - Present",
       desc: "Worked on multiple projects involving Java, Spring Boot for backend development, and React.js for frontend development. Gained hands-on experience in building full-stack applications, implementing RESTful APIs, and managing databases.",
       skills: [
