@@ -37,6 +37,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
 import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+import ProgressBar from './assets/work_logo/progress_bar.png';
 
 // Education Section Logo's
 import glaLogo from './assets/education_logo/gla_logo.png';
