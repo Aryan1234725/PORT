@@ -55,7 +55,6 @@ import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import Logo from './assets/work_logo/Rock.png';
 import Logo1 from './assets/work_logo/ecommerce.png';
-import ProgressBar from './assets/work_logo/Progressbar.png';
 
 
 export const SkillsInfo = [
