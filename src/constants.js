@@ -225,13 +225,5 @@ export const SkillsInfo = [
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Aryan1234725/E-COMMERCE_REACT_MAIN",
     },
-    {
-      id: 2,
-      title: "PROGERESS BAR",
-      description:
-        "A Javascript based Progress bar which give progress at every stage also give percentage progress at each level.",
-      image: ProgressBar,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://progressbar-olive.vercel.app/",
-    },
+    
   ];  
