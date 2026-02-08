@@ -55,6 +55,7 @@ import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import Logo from './assets/work_logo/Rock.png';
 import Logo1 from './assets/work_logo/ecommerce.png';
+import progress from "./assets/work_logo/Progress.png";
 
 
 export const SkillsInfo = [
@@ -219,10 +220,19 @@ export const SkillsInfo = [
       id: 1,
       title: "E-COMMERECE WEBSITE",
       description:
-        "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+        "A ECOMMERCE WEBISITE built using React JS that allows users to buy and sell products online. The website features a user-friendly interface, secure payment gateway, and responsive design for an engaging shopping experience.",
       image: Logo1,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      tags: ["React JS",  "MongoDB",  "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Aryan1234725/E-COMMERCE_REACT_MAIN",
+    },
+    {
+      id: 2,
+      title: "Progress Bar",
+      description:
+        ".",
+      image: progress,
+      tags: ["React JS", "HTML", "CSS", "JavaScript"],
+      github: "https://progressbar-olive.vercel.app/",
     },
     
   ];  
