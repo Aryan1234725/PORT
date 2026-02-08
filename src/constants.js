@@ -180,7 +180,7 @@ export const SkillsInfo = [
       img: glaLogo,
       school: "Shri Ramdeobaba College of Engineering and Management",
       date: "Nov 2021 - May 2025",
-      grade: "8.02 CGPA",
+      grade: "8.22 CGPA",
       desc: "I have completed my Bachelors of Technology (B.Tech) in Electronics And Communication from Ramdeobaba University, Nagpur. During my time at RCOEM, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Bachelors Of Technology - B.Tech (Electronics and Communication)",
     },
