@@ -36,7 +36,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
-import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+import IT from "./assets/IT_VEDANT.jpg"
 
 // Education Section Logo's
 import glaLogo from './assets/education_logo/gla_logo.png';
@@ -152,9 +152,9 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: newtonschoolLogo,
+      img: IT,
       role: "Java Fullstack Developer Intern",
-      company: "Newton School",
+      company: "IT VEDANT",
       date: "NOV 2025 - Present",
       desc: "Worked on multiple projects involving Java, Spring Boot for backend development, and React.js for frontend development. Gained hands-on experience in building full-stack applications, implementing RESTful APIs, and managing databases.",
       skills: [
